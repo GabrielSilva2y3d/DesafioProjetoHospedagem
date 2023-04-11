@@ -1,0 +1,15 @@
+E:\Users\WIN10\Documents\Repositorio\dotNetFirstProject\bin\Debug\net7.0\dotNetFirstProject.exe
+E:\Users\WIN10\Documents\Repositorio\dotNetFirstProject\bin\Debug\net7.0\dotNetFirstProject.deps.json
+E:\Users\WIN10\Documents\Repositorio\dotNetFirstProject\bin\Debug\net7.0\dotNetFirstProject.runtimeconfig.json
+E:\Users\WIN10\Documents\Repositorio\dotNetFirstProject\bin\Debug\net7.0\dotNetFirstProject.dll
+E:\Users\WIN10\Documents\Repositorio\dotNetFirstProject\bin\Debug\net7.0\dotNetFirstProject.pdb
+E:\Users\WIN10\Documents\Repositorio\dotNetFirstProject\obj\Debug\net7.0\dotNetFirstProject.csproj.AssemblyReference.cache
+E:\Users\WIN10\Documents\Repositorio\dotNetFirstProject\obj\Debug\net7.0\dotNetFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\WIN10\Documents\Repositorio\dotNetFirstProject\obj\Debug\net7.0\dotNetFirstProject.AssemblyInfoInputs.cache
+E:\Users\WIN10\Documents\Repositorio\dotNetFirstProject\obj\Debug\net7.0\dotNetFirstProject.AssemblyInfo.cs
+E:\Users\WIN10\Documents\Repositorio\dotNetFirstProject\obj\Debug\net7.0\dotNetFirstProject.csproj.CoreCompileInputs.cache
+E:\Users\WIN10\Documents\Repositorio\dotNetFirstProject\obj\Debug\net7.0\dotNetFirstProject.dll
+E:\Users\WIN10\Documents\Repositorio\dotNetFirstProject\obj\Debug\net7.0\refint\dotNetFirstProject.dll
+E:\Users\WIN10\Documents\Repositorio\dotNetFirstProject\obj\Debug\net7.0\dotNetFirstProject.pdb
+E:\Users\WIN10\Documents\Repositorio\dotNetFirstProject\obj\Debug\net7.0\dotNetFirstProject.genruntimeconfig.cache
+E:\Users\WIN10\Documents\Repositorio\dotNetFirstProject\obj\Debug\net7.0\ref\dotNetFirstProject.dll
